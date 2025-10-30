@@ -4,7 +4,7 @@ A production-ready expense tracker built with the MERN stack. The app supports J
 
 ## Live Demo
 
-- Live Link: <ADD_YOUR_DEPLOYED_LINK_HERE>
+- [![Live Demo](https://img.shields.io/badge/View%20Live%20Demo-Chatr%20App-blue?style=for-the-badge&logo=vercel)](https://chatr-coral.vercel.app)
 
 ## Screenshots
 
