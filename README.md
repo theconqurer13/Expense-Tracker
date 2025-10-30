@@ -4,7 +4,8 @@ A production-ready expense tracker built with the MERN stack. The app supports J
 
 ## Live Demo
 
-- [![Live Demo](https://img.shields.io/badge/View%20Live%20Demo-ExpenseTracker%20App-blue?style=for-the-badge&logo=vercel)](https://expense-tracker-app-theta-five.vercel.app/login)
+[Live App: https://expense-tracker-app-theta-five.vercel.app/login](https://expense-tracker-app-theta-five.vercel.app/login)
+
 
 ## Screenshots
 
