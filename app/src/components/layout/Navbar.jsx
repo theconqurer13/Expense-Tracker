@@ -13,7 +13,6 @@ export default function Navbar() {
           {/* Logo or Greeting */}
           <div className="flex items-center">
             <h2 className="text-lg font-semibold text-white hidden sm:block">Welcome back, {user?.name}!</h2>
-            <h2 className="text-base font-semibold text-white sm:hidden">Hi, {user?.name?.split(' ')[0] || 'User'}!</h2>
           </div>
           {/* Desktop Avatar */}
           <div className="hidden sm:flex items-center">
@@ -60,12 +59,7 @@ export default function Navbar() {
             </div>
           </div>
         </div>
-        {/* (Optional) Mobile Dropdown: Show greeting larger on mobile menu open */}
-        {menuOpen && (
-          <div className="sm:hidden mt-2 pb-2 text-center">
-            <div className="text-white text-sm font-semibold">Welcome back, {user?.name}!</div>
-          </div>
-        )}
+        
       </div>
     </header>
   );

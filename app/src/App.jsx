@@ -18,7 +18,7 @@ function AppContent() {
   return (
     <div className="flex min-h-screen bg-gray-900 text-gray-100">
       {user && <Sidebar />}
-      <div className={user ? "ml-64 flex-1" : "w-full"}>
+      <div className={user ? "sm:ml-64 flex-1 w-full" : "w-full"}>
         {user && <Navbar />}
         <main className="p-4 md:p-6">
           <Routes>
