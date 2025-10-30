@@ -10,9 +10,9 @@ A production-ready expense tracker built with the MERN stack. The app supports J
 
 - 
   
-    ![Dashboard](image.png)
-    ![Add/Edit Expense](image.png)
-    ![Reports (Monthly Spending & Category Breakdown)](image.png)
+    <img src="app/src/assets/dashboard.png" alt="Dashboard" />
+    <img src="app/src/assets/expense.png" alt="Expense" />
+    <img src="app/src/assets/reports2.png" alt="Reports" />
  
 
 ## Features
